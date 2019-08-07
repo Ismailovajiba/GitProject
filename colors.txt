@@ -2,4 +2,6 @@ blue
 red
 orange
 pink
+black
+grey
 green
